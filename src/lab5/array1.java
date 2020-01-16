@@ -1,10 +1,10 @@
 package lab5;
 
 public class array1 {
-}
 
     public static void main(String[] args) {
-
+        //Array : คือ ตัวแปรชนิดหนึ่งที่สามารถเก็บข้อมูลชนิดเดียวกันได้หลายจำนวน
+        //เช่น เก็บข้อมูลจำนวนเต็ม 10 จำนวนในตัวแปร 1 ตัว
 
         int x []=new int[5];
 
