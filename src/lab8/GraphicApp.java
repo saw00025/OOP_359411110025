@@ -7,7 +7,7 @@ public class GraphicApp {
         Circle c = new Circle();
         c.findArea();
 
-        Triangle t= new Triangle();
+        //Triangle t= new Triangle();
 
 
     }

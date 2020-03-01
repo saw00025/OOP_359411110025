@@ -13,8 +13,8 @@ public class PersonApp {
                 "15/03/1997",
                 "STD025", "Information System");
 
-        S1.();
-        S1.add Subject();
+        //S1.();
+        //S1.addSubject();
         //P1.addSubject();
         // object ของ super-class ไม่สามารถเรียกใช้ method ของ sub-class
     }
